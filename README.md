@@ -1,3 +1,3 @@
 # Minimal Example of Tutorial in Markdown
 
-This example show all the metadata used in Methods Hub.
+[index.md](index.md) show all the metadata used in Methods Hub.
