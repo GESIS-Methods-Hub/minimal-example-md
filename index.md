@@ -1,14 +1,15 @@
 ---
 title: "Minimal Example of Tutorial in Markdown"
-author:
-  - name: Raniere Silva
+author: Raniere Silva
+image: img/cover.jpg
+image-alt: Individual letter stamp in metal box.
 ---
 
-This example demonstrates the **required** metadata by Methods Hub.
+This example illustrates the **required** metadata by [`methodshub`](https://github.com/GESIS-Methods-Hub/methodshub).
 
 ## Binder
 
-The link to Binder will launch the default Jupyter Lab interface.
+The link to Binder will launch the default [JupyterLab IDE](https://jupyterlab.readthedocs.io/).
 
 ## Dependencies
 
